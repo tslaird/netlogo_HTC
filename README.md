@@ -59,7 +59,7 @@ This wrapper script is called by the "netlogo_submission.sub" file on each node 
 
 To run the submission file on the OSG you can enter the command:
 ```
-condor_submit netlogo_submission.sub"
+condor_submit netlogo_submission.sub
 ```
 
 #### Modifications
